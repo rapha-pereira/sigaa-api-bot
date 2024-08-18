@@ -1,0 +1,9 @@
+{
+  "api_base_url": "https://sigaa-api-service-7tggr7zpeq-uc.a.run.app/",
+  "services": {
+    "available": {
+      "cursos": "api/v1/student/courses",
+      "perfil": "api/v1/student/profiles"
+    }
+  }
+}
